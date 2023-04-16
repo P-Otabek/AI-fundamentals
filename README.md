@@ -1,2 +1,2 @@
 # literate-enigma
-Personal and academic projects
+This file includes personal and academic projects
